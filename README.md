@@ -7,13 +7,13 @@
 **BOLD**
 *Italicize*
 
-# Let's count how many animals are on the farm together!
+## Let's count how many animals are in the backyard together!
 1) One
-    - one cow
+    - one giraffe
 2) Two
-    - two pigs
+    - two tigers
 3) Three
-    - three llamas
+    - three rhinos
 
 | How |     |     |       |        |
 |-----|-----|-----|-------|--------|
