@@ -14,6 +14,8 @@
     - two tigers
 3) Three
     - three rhinos
+4) Four
+    - four iguanas
 
 | How |     |     |       |        |
 |-----|-----|-----|-------|--------|
