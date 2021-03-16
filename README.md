@@ -1,6 +1,6 @@
 # Hello World!
 
-## ere's some text.
+## Here's some text.
 
 ### And here's some more text.
 
